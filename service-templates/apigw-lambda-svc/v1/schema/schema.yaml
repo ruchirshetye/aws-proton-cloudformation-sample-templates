@@ -17,7 +17,7 @@ schema:
           maxLength: 50
           default: "app.handler"
         lambda_memory:
-          title: "Lambda memory"
+          title: "Lambda new memory"
           type: number
           description: "The size of your Lambda functions in MB"
           default: 512
