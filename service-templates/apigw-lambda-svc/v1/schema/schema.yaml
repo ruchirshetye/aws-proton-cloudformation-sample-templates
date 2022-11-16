@@ -24,7 +24,7 @@ schema:
           minimum: 1
           maximum: 3008
         lambda_timeout:
-          title: "Lambda timeout"
+          title: "Lambda new timeout"
           type: number
           description: "The timeout in seconds of your Lambda function"
           default: 30
