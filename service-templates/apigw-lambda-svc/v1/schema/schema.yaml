@@ -31,7 +31,7 @@ schema:
           minimum: 1
           maximum: 900
         lambda_runtime:
-          title: "Lambda new runtime"
+          title: "Lambda runtime"
           type: string
           description: "The runtime for your Lambda service"
           enum: ["nodejs12.x", "python3.8", "ruby2.7", "java11", "go1.x", "dotnetcore3.1"]
